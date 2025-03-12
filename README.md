@@ -14,7 +14,7 @@ This project predicts **customer churn** for a subscription-based service using 
 ```
 📁 customer-churn-prediction
 │-- churn_prediction.ipynb      # Jupyter Notebook with model training & evaluation
-│-- data/telco_customer_churn.csv  # Dataset
+│-- telco_customer_churn.csv   # Dataset
 │-- README.md                  # Project documentation
 │-- requirements.txt            # Python dependencies
 ```
