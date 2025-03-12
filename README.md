@@ -13,7 +13,7 @@ This project predicts **customer churn** for a subscription-based service using 
 ## 📂 Project Structure
 ```
 📁 customer-churn-prediction
-│-- churn_prediction.py        # Main script to train & evaluate the model
+│-- churn_prediction.ipynb      # Jupyter Notebook with model training & evaluation
 │-- data/telco_customer_churn.csv  # Dataset
 │-- README.md                  # Project documentation
 │-- requirements.txt            # Python dependencies
@@ -31,9 +31,9 @@ cd customer-churn-prediction
 pip install -r requirements.txt
 ```
 
-### **3️⃣ Run the Model**
+### **3️⃣ Open the Jupyter Notebook**
 ```bash
-python churn_prediction.py
+jupyter notebook churn_prediction.ipynb
 ```
 
 ## 📊 Model Performance
@@ -44,11 +44,12 @@ python churn_prediction.py
 ## 📌 Next Steps
 - Tune the ANN model for better performance.
 - Try different architectures (e.g., CNN, LSTM for time-series churn data).
-- Deploy the model using Flask or Streamlit.
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
 
 ---
 🙌 **Feel free to fork this project, contribute, or reach out with suggestions!** 🚀
+
+
 
