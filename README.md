@@ -37,8 +37,8 @@ jupyter notebook churn_prediction.ipynb
 ```
 
 ## 📊 Model Performance
-- **Accuracy:** _XX%_  
-- **ROC-AUC Score:** _XX%_  
+- **Accuracy:** 78%  
+- **ROC-AUC Score:** % 
 - **Confusion Matrix:** Shows churn vs. non-churn classification.
 
 ## 📌 Next Steps
